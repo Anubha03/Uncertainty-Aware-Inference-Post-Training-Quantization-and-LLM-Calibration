@@ -1,4 +1,4 @@
-# Uncertainty-Aware Inference: How Quantization Affects LLM Confidence Calibration
+# Uncertainty-Aware Inference: Post-Training Quantization & LLM Calibration.
 
 This repository contains the evaluation framework, profiling tools, and analysis scripts for our HPML group project. We systematically study how post-training quantization (PTQ) affects LLM confidence calibration across multiple architectures and scales, and whether knowledge distillation can recover lost calibration quality.
 
